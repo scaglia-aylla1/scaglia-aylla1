@@ -36,7 +36,8 @@
 
 
 
-## 🔥 Skills
+## 🔥 Skills 
+<br><br>
 <!-- Skills: Programming Languages -->
 <div style="flex-basis: 48%;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -53,7 +54,8 @@
 <br> 
 <br>
 
-##  Ferramentas & Frameworks
+##  Ferramentas & Frameworks <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
+<br><br>
 
 ###
 
