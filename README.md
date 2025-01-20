@@ -16,7 +16,7 @@
 </details>
 
 
-- Awesome Work Environment
+
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 <br><br>
 
@@ -30,13 +30,13 @@
 
 
 
-<p align="left">Portifólio</p>
+<p align="left">📓Portifólio</p>
 -Prencher <br>
 -Preencher  <br>  <br>  <br>
 
 
 
-## 🔥 Skills 
+### 🔥 Skills 
 <br><br>
 <!-- Skills: Programming Languages -->
 <div style="flex-basis: 48%;">
@@ -54,10 +54,10 @@
 <br> 
 <br>
 
-##  Ferramentas & Frameworks <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
+###  Ferramentas & Frameworks <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
 <br><br>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
