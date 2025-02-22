@@ -31,6 +31,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scaglia-aylla1&show_icons=true&theme=radical)
 
 <p align="left">📓Portifólio</p>
+[Jogo Sudo](https://github.com/scaglia-aylla1/Jogo-Sudoku)<br>
 [Estudos de Go](https://github.com/scaglia-aylla1/Estudos-de-Logica-de-Programacao-com-Go)<br>
 [Java Básico] (https://github.com/scaglia-aylla1/Trilha-Java-basico)
 
@@ -45,9 +46,9 @@
 
 <div align="left">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
