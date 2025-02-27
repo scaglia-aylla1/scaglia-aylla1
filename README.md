@@ -31,8 +31,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scaglia-aylla1&show_icons=true&theme=radical)
 
 <p align="left">📓Portifólio</p>
-[Jogo Sudoku](https://github.com/scaglia-aylla1/Jogo-Sudoku)<br>
+[Persistência de Dados](https://github.com/scaglia-aylla1/Persistencia-de-dados-com-Java) <br>
 [Estudos de Go](https://github.com/scaglia-aylla1/Estudos-de-Logica-de-Programacao-com-Go)<br>
+[Jogo Sudoku-Java](https://github.com/scaglia-aylla1/Jogo-Sudoku)<br>
 [Java Básico] (https://github.com/scaglia-aylla1/Trilha-Java-basico)
 
 
