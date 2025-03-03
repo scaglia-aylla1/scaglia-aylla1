@@ -32,7 +32,6 @@
 
 <p align="left">📓Portifólio</p>
 [Persistência de Dados](https://github.com/scaglia-aylla1/Persistencia-de-dados-com-Java) <br>
-[Estudos de Go](https://github.com/scaglia-aylla1/Estudos-de-Logica-de-Programacao-com-Go)<br>
 [Jogo Sudoku-Java](https://github.com/scaglia-aylla1/Jogo-Sudoku)<br>
 [Java Básico] (https://github.com/scaglia-aylla1/Trilha-Java-basico)
 
