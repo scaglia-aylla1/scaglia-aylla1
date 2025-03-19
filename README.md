@@ -22,23 +22,15 @@
 
 
 
-
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aylla_scaglia/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aylla-scaglia/)
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scaglia-aylla1&show_icons=true&theme=radical)
 
-<p align="left">📓Portifólio</p>
-[Persistência de Dados](https://github.com/scaglia-aylla1/Persistencia-de-dados-com-Java) <br>
-[Jogo Sudoku-Java](https://github.com/scaglia-aylla1/Jogo-Sudoku)<br>
-[Java Básico] (https://github.com/scaglia-aylla1/Trilha-Java-basico)
-
-
-
-
-###
+<!-- Portfolio -->
+## Portfólio:
+- [Sistema Controle Financeiro](https://github.com/scaglia-aylla1/Sistema-controle-financeiro)
+- [Persistencia de dados com Java](https://github.com/scaglia-aylla1/Persistencia-de-dados-com-Java)
+- [Jogo-Sudoku](https://github.com/scaglia-aylla1/Jogo-Sudoku)
+- [Board](https://github.com/scaglia-aylla1/Board)
+- [Desafios Java](https://github.com/scaglia-aylla1/Desafios-Java)
 
 
 <p align="left">Skills</p>
@@ -47,8 +39,6 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -64,9 +54,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -76,7 +64,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
@@ -95,7 +83,10 @@
 ###
 
 <div align="left">
-  <a href="mailto:aylla@scaglia.com.br" target="_blank">
+  <a href="https://www.linkedin.com/in/aylla-scaglia/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="aylla@scaglia.com.br" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
@@ -106,3 +97,5 @@
 </div>
 
 ###
+
+
