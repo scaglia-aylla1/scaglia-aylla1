@@ -26,7 +26,7 @@
 
 <!-- Portfolio -->
 ## Portfólio:
-- [Sistema Controle Financeiro](https://github.com/scaglia-aylla1/Sistema-controle-financeiro)
+- [Sistema Controle Financeiro](https://github.com/scaglia-aylla1/Controle-Financeiro)
 - [Persistencia de dados com Java](https://github.com/scaglia-aylla1/Persistencia-de-dados-com-Java)
 - [Jogo-Sudoku](https://github.com/scaglia-aylla1/Jogo-Sudoku)
 - [Board](https://github.com/scaglia-aylla1/Board)
