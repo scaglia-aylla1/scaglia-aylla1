@@ -26,10 +26,10 @@
 
 <!-- Portfolio -->
 ## Portfólio:
-- [Projeto Conta Bancária](https://github.com/scaglia-aylla1/Conta-Bancaria)
+- [Portifolio](https://github.com/scaglia-aylla1/portifolio)
+- [Projeto Blog Pessoal](https://github.com/scaglia-aylla1/blogpessoalreact)
 - [Sistema Controle Financeiro](https://github.com/scaglia-aylla1/Controle-Financeiro)
-- [Persistencia de dados com Java](https://github.com/scaglia-aylla1/Persistencia-de-dados-com-Java)
-- [Jogo-Sudoku](https://github.com/scaglia-aylla1/Jogo-Sudoku)
+- [API de Integração](https://github.com/scaglia-aylla1/apiintegrationsystem)
 
 
 
