@@ -32,7 +32,7 @@
 <!-- Portfolio -->
 ## Portfólio:
 - [Portifolio](https://github.com/scaglia-aylla1/portifolio)
-- [Sistema Controle Financeiro](https://github.com/scaglia-aylla1/controlefinanceiro)
+- [Sistema Controle Financeiro](https://github.com/scaglia-aylla1/financeiro)
 - [Projeto Blog Pessoal](https://github.com/scaglia-aylla1/blogpessoalreact)
 - [API de Integração](https://github.com/scaglia-aylla1/apiintegrationsystem)
 
